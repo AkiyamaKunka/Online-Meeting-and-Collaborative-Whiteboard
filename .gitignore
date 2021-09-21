@@ -1,0 +1,17 @@
+node_modules
+npm-debug.log
+client/src/compiled/
+
+# dist folder
+dist
+
+# cache and IDE settings file
+*.eslintcache
+*.idea
+client/.eslintcache
+.idea/
+#misc
+.DS_Store
+# backend local files
+server/local
+server/node_module
